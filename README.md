@@ -1,4 +1,8 @@
 
+
+https://github.com/nikhil-poojary/site2/assets/39295234/18f56563-18a2-48d9-a6c8-ab9eafa420fd
+
+
 A video editor portfolio website is a website that showcases the work of a video editor. It is a great way for video editors to show off their skills and experience to potential clients. A well-designed video portfolio website can help a video editor stand out from the competition and land more work / clients.
 
 When creating a video portfolio website, it is important to design / develop a website that is both visually appealing and easy to navigate (which would create a great user experience). The site is very informative as well as nicely organized, with each video clearly labeled and described.
